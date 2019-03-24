@@ -33,4 +33,17 @@ public class StringUtil {
 		return resMap;
 	}
 	
+	/**
+	 * @Title: isEmpty 
+	 * @Description: 如果为空,返回true @param @param str 
+ 	 * @return boolean 返回类型
+	 * @throws
+	 */
+	public static boolean isEmpty(String str) {
+		boolean b = false;
+		if (str == null || "".equals(str)) {
+			b = true;
+		}
+		return b;
+	}
 }
