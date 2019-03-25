@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>cn.iq99</groupId>
 	<artifactId>common</artifactId>
-	<version>0.0.2</version>
+	<version>0.0.3</version>
 	<name>common</name>
 	<description>flyphant common projects</description>
 	<url>https://github.com/flyphant/common.git</url>
